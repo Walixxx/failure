@@ -129,7 +129,7 @@ font-family:var(--nun);
 font-weight: bolder;
 text-decoration: none;
 font-size: 15px;
-padding:7px 15px 7px 15px;
+padding:7px 15px 3px 15px;
 transition-duration: 0.5s;
 }
 
