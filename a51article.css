@@ -18,20 +18,21 @@ body
 {
 margin: 0%;
 padding: 0%;
-
+background-color: rgba(0, 0, 0, 0.815);
 }
 
 article
 {
 margin: auto;
-max-width: 800px;
-padding: 20px;
-padding-top: 0px;
+max-width: 900px;
+padding: 40px;
+background-color: #ffffff;
+margin-top: 20px;
 }
 
 article>p
 {
-font-size: 22px;
+font-size: 1.4em;
 text-align:justify;
 line-height: 40px;
 margin: 40px 0px 40px;
@@ -43,18 +44,18 @@ color: var(--cin);
 article>h2
 {
 font-size: 30px;
-margin: 80px 0px 80px;
+margin: 40px 0px 40px;
 font-family: var(--nun);
 text-align: center;
 }
 
 h1
 {
-font-size: 3.5em;
+font-size: 2.8em;
 font-family:var(--nun);
 font-weight: bolder;
 color: var(--cin);
-margin: 50px 10px 40px -5px;
+margin: 0px 10px 40px -5px;
 width: auto;
 
 }
@@ -63,7 +64,7 @@ img.imgp
 {
  width: 100%;
  max-width: 840px;
- border-radius: 0px;
+ border-radius: 15px;
  margin: auto;
 }
 
@@ -71,7 +72,7 @@ img
 {
 display: block;
 width: 100%;
-max-width: 700px;
+max-width: 43em;
 border-radius: 10px;
 margin: auto;
 }
@@ -80,8 +81,8 @@ margin: auto;
 iframe
 {
 width: 100%;
-max-width:700px;
-height: 400px;
+max-width:43em;
+height: 20em;
 display: block;
 margin:auto;
 border-radius: 15px;
@@ -103,10 +104,9 @@ menu
 {
 background-image: linear-gradient(to right, #000000, #6d000060);
 color: rgb(0, 26, 255);
-height: 155px;
+height: 115px;
 padding: 1px; 
 padding-top: 20px;
-margin-bottom: 40px;
 margin-top: -0px;
 }
 
@@ -126,7 +126,7 @@ menu>div
 text-align: center;
 font-family: var(--nun);
 font-size: 15px;
-margin: 10px 0px  60px 0px;
+margin: 10px 0px  20px 0px;
 color: #ffffff;
 font-weight: bold;
 
