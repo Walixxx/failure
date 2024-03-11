@@ -18,7 +18,7 @@ body
 {
 margin: 0%;
 padding: 0%;
-background-color: rgba(0, 0, 0, 0.815);
+background-color: rgb(43, 43, 43);
 }
 
 article
@@ -27,13 +27,14 @@ margin: auto;
 max-width: 900px;
 padding: 40px;
 background-color: #ffffff;
-margin-top: 20px;
+margin-top: -15px;
 }
 
 article>p
 {
-font-size: 19px;
-text-align:left;
+font-size: 21px;
+text-align:justify;
+text-indent: 20px;
 line-height: 40px;
 margin: 40px 0px 40px;
 font-family:var(--nun);
@@ -92,11 +93,11 @@ footer
 background-color: #000000;
 color: #7e7e7e;
 font-weight: lighter;
-font-size: 12px;
+font-size: 15px;
 text-align: center;
 height: 10px;
 font-family: var(--rob);
-padding: 4px 0px 6px 0px;
+padding: 4px 0px 8px 0px;
 }
 
 menu
@@ -117,7 +118,6 @@ font-weight: bolder;
 color: #ffffff;
 max-width: 350px;
 margin: auto;
-
 }
 
 menu>div
