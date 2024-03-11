@@ -24,7 +24,7 @@ background-color: rgb(43, 43, 43);
 article
 {
 margin: auto;
-max-width: 900px;
+max-width: 850px;
 padding: 20px;
 background-color: #ffffff;
 margin-top: -15px;
@@ -32,12 +32,12 @@ margin-top: -15px;
 
 article>p
 {
-font-size: 21px;
+font-size: 19px;
 text-align:justify;
 text-indent: 30px;
 line-height: 40px;
 margin: 40px 0px 40px;
-font-family:var(--nun);
+font-family:var(--rob);
 color: var(--cin);
 }
 
@@ -55,9 +55,8 @@ font-size: 30px;
 font-family:var(--nun);
 font-weight: bolder;
 color: var(--cin);
-margin: 0px 10px 40px 0px;
+margin: 20px 10px 20px 0px;
 width: auto;
-
 }
 
 img.imgp
@@ -92,7 +91,6 @@ footer
 {
 background-color: #000000;
 color: #7e7e7e;
-font-weight: lighter;
 font-size: 15px;
 text-align: center;
 height: 10px;
