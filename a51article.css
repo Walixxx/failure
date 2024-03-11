@@ -34,7 +34,7 @@ article>p
 {
 font-size: 21px;
 text-align:justify;
-text-indent: 20px;
+text-indent: 30px;
 line-height: 40px;
 margin: 40px 0px 40px;
 font-family:var(--nun);
@@ -51,11 +51,11 @@ text-align: center;
 
 h1
 {
-font-size: 35px;
+font-size: 30px;
 font-family:var(--nun);
 font-weight: bolder;
 color: var(--cin);
-margin: 0px 10px 40px -5px;
+margin: 0px 10px 40px 0px;
 width: auto;
 
 }
