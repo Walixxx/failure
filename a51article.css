@@ -34,11 +34,11 @@ article>p
 {
 font-size: 19px;
 text-align:justify;
-text-indent: 20px;
 line-height: 35px;
 margin: 40px 0px 40px;
 font-family:var(--rob);
 color: var(--cin);
+hyphens: auto;
 }
 
 article>h2
@@ -103,7 +103,7 @@ menu
 background-image: linear-gradient(to right, #000000, #6d000060);
 color: rgb(0, 26, 255);
 height: 115px;
-padding: 1px; 
+padding: 1px;
 padding-top: 20px;
 margin-top: -0px;
 }
@@ -137,7 +137,7 @@ font-family:var(--nun);
 font-weight: bolder;
 text-decoration: none;
 font-size: 15px;
-padding:7px 10px 7px 10px;
+padding:3px 10px 3px 10px;
 transition-duration: 0.5s;
 }
 
