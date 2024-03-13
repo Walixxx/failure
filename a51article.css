@@ -18,7 +18,14 @@ body
 {
 margin: 0%;
 padding: 0%;
-background-color: rgb(255, 255, 255);
+background-color: rgb(66, 43, 43);
+}
+
+aside
+{
+ margin: auto;
+max-width: 1250px;
+background-color: #ffffff;
 }
 
 article
@@ -47,6 +54,16 @@ font-size: 30px;
 margin: 40px 0px 40px;
 font-family: var(--nun);
 text-align: center;
+}
+
+p.one
+{
+font-size: 19px;
+font-weight: 500;
+color: #000000;
+hyphens: auto;
+margin-top: 0px;
+text-align: left;
 }
 
 h1
@@ -82,20 +99,19 @@ border-radius: 15px;
 
 footer
 {
-background-color: #000000;
+background-color: #00000000;
 color: #7e7e7e;
 font-size: 15px;
 text-align: center;
 height: 10px;
 font-family: var(--rob);
-padding: 4px 0px 10px 0px;
 }
 
 menu
 {
 background-image: linear-gradient(to right, #000000, #6d000060);
 color: rgb(0, 26, 255);
-height: 113px;
+height: 115px;
 padding: 1px;
 padding-top: 20px;
 margin-top: -0px;
@@ -117,7 +133,7 @@ menu>div
 text-align: center;
 font-family: var(--nun);
 font-size: 15px;
-margin: 10px 0px  20px 0px;
+margin: 10px 0px 20px 0px;
 color: #ffffff;
 font-weight: bold;
 text-shadow: 3px 1px 4px rgb(0, 0, 0);
