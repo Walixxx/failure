@@ -39,7 +39,7 @@ margin-top: -15px;
 
 article>p
 {
-font-size: 19px;
+font-size: 18px;
 text-align:justify;
 line-height: 35px;
 margin: 40px 0px 40px;
@@ -58,8 +58,7 @@ text-align: center;
 
 p.one
 {
-font-size: 19px;
-font-weight: 500;
+font-size: 18px;
 color: #000000;
 hyphens: auto;
 margin-top: 0px;
